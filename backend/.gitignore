@@ -1,0 +1,63 @@
+# Python-specific ignores
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables
+.env
+
+# FastAPI-specific ignores
+*.log
+logs/
+*.log.*
+*.pid
+*.seed
+*.pid.lock
+
+# Supabase-specific ignores
+.supabase/
+supabase/config.toml
+supabase/.temp/
+supabase/.migrations/
+supabase/data/
+supabase/storage/
+supabase/functions/*/node_modules/
+supabase/functions/*/package-lock.json
+
+# Testing and coverage
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+htmlcov/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.bak
+*.swp
+*~
+*.tmp
+temp/
+tmp/
+
+# Database dumps
+*.sql
+*.sql.gz
+*.sqlite3
